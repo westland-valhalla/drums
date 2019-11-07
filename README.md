@@ -1,6 +1,8 @@
 # drums
 Drum Workout
 
+Download is available under [Releases](https://github.com/westland-valhalla/drums/releases)
+
 - You must train for several months, prior to your first real workout.
 - It is not how heavy you lift, it is how long you lift your heavy for.
 - If you have to stop then, it is too heavy.
